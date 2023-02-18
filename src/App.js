@@ -1,11 +1,10 @@
 import './App.css';
+import SurveyForm from './components/SurveyForm';
 
 function App() {
   return (
     <div className="App">
-      <div>
-        
-      </div>
+      <SurveyForm></SurveyForm>
     </div>
   );
 }

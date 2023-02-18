@@ -1,1 +1,1 @@
-# A simple inator which can be used to do multiple things
+# A simple survey form to survey the customers in a shop
